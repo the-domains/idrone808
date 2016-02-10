@@ -1,7 +1,7 @@
 name: idrone808
 favicon: null
-layout_spectrum: 0.89054
-typography_spectrum: 0.68039
+layout_spectrum: 0.09894
+typography_spectrum: 0.18127
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.8125
-  lightness: 0.3508126998785883
-  saturation: 0.3999384792987257
-  rhythmicContrast: 0.07099467585794628
+  brandStrength: 0.0625
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
